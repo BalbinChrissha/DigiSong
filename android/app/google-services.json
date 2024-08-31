@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "303079990591",
+    "project_id": "digisong-54ce3",
+    "storage_bucket": "digisong-54ce3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303079990591:android:00ef1ab74bd50d95e7df8a",
+        "android_client_info": {
+          "package_name": "com.example.digisong_etr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303079990591-s84tgaa3kj8pc34gtq0hsuf0tadhu2v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU75PdnVTLyFTWhagM7PyhsXLyTBMS7Js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303079990591-s84tgaa3kj8pc34gtq0hsuf0tadhu2v5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "303079990591-nnkg7tsu940h2eha7cdvphrek09s6hub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.digisongEtr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
